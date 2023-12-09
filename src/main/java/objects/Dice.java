@@ -42,4 +42,4 @@ import java.util.Random;
             return "A " + sides + " sided die";
         }
     }
-}
+
